@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PU13">BasicsSyncAdapter</string>
+    <string name="intro_message">
+        <![CDATA[
+
+        Welcome!
+
+        ]]>
+
+    </string>
+     <string name="intro_message2">
+        <![CDATA[
+
+        Hello my jewish friend. Just swipe left to right for opening a navigation drawer
+        Then select a name and ni4ego ne slu4itsya potomy 4to poshel nakhui, vot po4emu
+
+        ]]>
+
+    </string>
+</resources>

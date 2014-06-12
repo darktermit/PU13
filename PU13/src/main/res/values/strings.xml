@@ -1,0 +1,19 @@
+
+<resources>
+<string name="app_name">PU13</string>
+<string-array name="planets_array">
+    <item>Home</item>
+    <item>Skpd</item>
+    <item>Grew</item>
+    <item>SparT</item>
+    <item>Magvai</item>
+    <item>Greshnik</item>
+    <item>Osa106</item>
+    <item>KpoT</item>
+</string-array>
+<string name="action_settings">Settings</string>
+<string name="drawer_open">Open navigation drawer</string>
+<string name="drawer_close">Close navigation drawer</string>
+<string name="action_websearch">Web search</string>
+<string name="app_not_available">Sorry, there\'s no web browser available</string>
+</resources>
