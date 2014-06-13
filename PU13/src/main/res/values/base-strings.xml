@@ -4,16 +4,31 @@
     <string name="intro_message">
         <![CDATA[
 
-        Welcome!
+        WELCOME!
 
         ]]>
-
     </string>
      <string name="intro_message2">
         <![CDATA[
 
-        Hello my jewish friend. Just swipe left to right for opening a navigation drawer
-        Then select a name and ni4ego ne slu4itsya potomy 4to poshel nakhui, vot po4emu
+        Hello my jewish friend. Just swipe left to right for opening a navigation drawer. Then select a name and ничего не случится потому что нахуй иди вот почему
+
+        ]]>
+
+    </string>
+    <string name="intro_message3">
+        <![CDATA[
+
+        ATTENTION!
+
+        ]]>
+    </string>
+    <string name="intro_message4">
+        <![CDATA[
+
+        Дорогой пользователь, ты наверняка уже задумался, мол что это за ссаное говно ты только что установил. Но когда я был у тебя дома (перед тем как отодрать твою мамку-шлюху), я показал ей это приложение и ей понравилось, а выбор родителей ты должен уважать, ушлёпок
+        А с другой стороны, я ссал на твоё мнение. Спасибо за внимание :) С наилучшими пожеланиями, DT
+        P.S.: тестируем скроллинг текста в маин активити хмл. уИЗУАниЗНЫИАзымиязнпказнфиапфзн ыц лол
 
         ]]>
 

@@ -20,6 +20,13 @@
     android:layout_marginTop="?android:actionBarSize"
     android:orientation="vertical">
 
+ <ScrollView android:id="@+id/ScrlView"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent">
+  <LinearLayout android:id="@+id/layoutForScroll"
+     android:orientation="vertical"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content">
      <TextView style="@style/Widget.SampleMessage"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
@@ -38,6 +45,26 @@
          android:text="@string/intro_message2"
          android:layout_marginTop="@dimen/vertical_page_margin" />
 
+     <TextView style="@style/Widget.SampleMessage"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="@dimen/horizontal_page_margin"
+         android:layout_marginRight="@dimen/horizontal_page_margin"
+         android:layout_marginTop="@dimen/vertical_page_margin2"
+         android:layout_marginBottom="@dimen/vertical_page_margin"
+         android:text="@string/intro_message3"/>
+
+     <TextView style="@style/Widget.SampleMessage2"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="@dimen/horizontal_page_margin"
+         android:layout_marginRight="@dimen/horizontal_page_margin"
+         android:layout_marginBottom="@dimen/vertical_page_margin"
+         android:text="@string/intro_message4"
+         android:layout_marginTop="@dimen/vertical_page_margin" />
+
+  </LinearLayout>
+ </ScrollView>
  </LinearLayout>
 
  <ListView
