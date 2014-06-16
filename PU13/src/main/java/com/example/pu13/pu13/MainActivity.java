@@ -210,7 +210,7 @@ public class MainActivity extends Activity {
     public void setTitle(CharSequence title) {
         mTitle = title;
         SpannableString s = new SpannableString(mTitle);
-        s.setSpan(new TypefaceSpan("serif"), 0, s.length(),
+        s.setSpan(new TypefaceSpan("sans-serif-light"), 0, s.length(),
                 Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
         getActionBar().setTitle(s);
     }

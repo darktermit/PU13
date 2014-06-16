@@ -27,12 +27,21 @@
      android:orientation="vertical"
      android:layout_width="fill_parent"
      android:layout_height="wrap_content">
+
+      <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@+id/ImageView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="@dimen/vertical_page_margin4"
+          android:adjustViewBounds="true"
+          android:gravity="center"
+          android:src="@drawable/main_image"/>
      <TextView style="@style/Widget.SampleMessage"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
          android:layout_marginLeft="@dimen/horizontal_page_margin"
          android:layout_marginRight="@dimen/horizontal_page_margin"
-         android:layout_marginTop="?android:actionBarSize"
+         android:layout_marginTop="@dimen/vertical_page_margin2"
          android:layout_marginBottom="@dimen/vertical_page_margin"
          android:text="@string/intro_message"/>
 

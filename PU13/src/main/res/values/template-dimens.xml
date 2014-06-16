@@ -5,6 +5,7 @@
     <dimen name="margin_small">8dp</dimen>
     <dimen name="margin_medium">10dp</dimen>
     <dimen name="margin_medium2">18dp</dimen>
+    <dimen name="margin_medium4">25dp</dimen>
     <dimen name="margin_large">48dp</dimen>
     <dimen name="margin_huge">64dp</dimen>
 
@@ -12,5 +13,6 @@
     <dimen name="vertical_page_margin">@dimen/margin_small</dimen>
     <dimen name="vertical_page_margin2">@dimen/margin_medium2</dimen>
     <dimen name="vertical_page_margin3">@dimen/margin_large</dimen>
+    <dimen name="vertical_page_margin4">@dimen/margin_medium4</dimen>
 
 </resources>
